@@ -36,3 +36,4 @@ dst=outfile
 match=nologin
 cat $src | grep -v $match > $dst
 ```
+
